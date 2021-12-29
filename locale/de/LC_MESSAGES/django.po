@@ -1,1 +1,4 @@
 
+#: forms.py:24 forms.py:59
+msgid "JustaText"
+msgstr "Dies ist nur ein Text"
