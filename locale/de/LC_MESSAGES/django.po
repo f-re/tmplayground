@@ -2,3 +2,10 @@
 #: forms.py:24 forms.py:59
 msgid "JustaText"
 msgstr "Dies ist nur ein Text"
+
+
+#: forms.py
+msgid "Hier ist ein 
+mehrzeiliger Text"
+
+msgstr "here, a messages string"
